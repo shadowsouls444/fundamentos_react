@@ -1,0 +1,20 @@
+Los nombres de los componentes SIEMPRE DEBEN SER EN PASCAL CASE
+
+los props son inmutables (no se deben modificar ni mutar NUNCA)
+En lugar de modificar la prop es crear una constante
+
+ESTADO(state)
+El estado es la información que puede cambiar dentro de un componente y que, cuando cambia, hace que la UI se vuelva a renderizar automáticamente.
+
+Se inicializa una vez no se reinicializa cada vez que una prop cambia (tener en cuenta esto, SOLO SE PUEDE INICIALIZAR UNA VEZ)
+
+RENDERIZADO DE LISTAS
+Se hace un mapeo de la lista
+cuando se le hace un fetch a una api que devuelve varias cosas
+
+CONCEPTOS APRENDIDOS:
+- Gestion de estados con useState
+- Props entre componentes (pasar valores a los componentes)
+- Mapeo de listas (Recorrer la lista)
+- Crear un componente y llamarlo
+- JSX

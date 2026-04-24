@@ -1,0 +1,7 @@
+Para crear una aplicación React, se recomienda usar un framework o una herramienta de compilación moderna, ya que la herramienta original "create-react-app" ha quedado obsoleta. Herramientas como Vite, Parcel o Rsbuild son el enfoque recomendado para crear una nueva aplicación de página única.
+FORMA MAS MODERNA DE CREAR UN PROYECTO CON REACT: Vite
+
+1. npm create vite@latest
+2. Ingresamos el nombre del proyecto
+3. Elegimos React
+4. Elegimos JavaScript + SWC (SIEMPRE SE USA CON SWC PORQUE ES MAS RAPIDO)
